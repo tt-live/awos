@@ -1,4 +1,4 @@
-module github.com/ego-component/eoss
+module github.com/ego-component/awos
 
 require (
 	github.com/BurntSushi/toml v1.1.0
